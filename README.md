@@ -53,7 +53,10 @@ This report analyses mobile device sales data across India spanning 2021–2024,
 
 ## 2. Brand Performance Analysis
 
-![Brand Analysis](logos/brand_analysis.JPG)
+<p align="center">
+  <img src="logos/brand_analysis.jpg" width="450">
+</p>
+
 
 | Brand | Revenue (₹M) | Units Sold | Transactions | Avg Rating | Market Share |
 |--------|------------|------------|------------|------------|------------|
@@ -74,7 +77,9 @@ This report analyses mobile device sales data across India spanning 2021–2024,
 
 ## 3. Monthly Sales Trend
 
-![Monthly Trend](logos/monthly_trend.JPG)
+<p align="center">
+  <img src="logos/monthly_trend.jpg" width="450">
+</p>
 
 ### Seasonality Insights
 
@@ -87,7 +92,9 @@ This report analyses mobile device sales data across India spanning 2021–2024,
 
 ## 4. Payment Methods & Geographic Distribution
 
-![Payment](logos/payment.JPG)
+<p align="center">
+  <img src="logos/payment.jpg" width="370" height="340">
+</p>>
 
 | Payment Method | Transactions | Revenue (₹M) | Share |
 |--------------|-------------|-------------|--------|
